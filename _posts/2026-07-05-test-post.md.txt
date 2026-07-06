@@ -1,0 +1,31 @@
+---
+title: "[Jekyll] test"
+excerpt" "야후~!"
+
+categories:
+ - Blog
+tags:
+ - [Blog, jekyll, Github]
+
+toc: true
+toc_sticky: true
+
+date: 2026-07-05
+last_modified_at: 2026-07-05
+---
+line enter test  
+<br>
+
+list
+  one
+  two
+  three
+   three 1/2
+# header
+**bold text**
+***bold italic text***
+*itatlic text*
+~~cancle line~~
+<u>mitjool line</u>
+
+<span style="color:yellow">yellow text.</span>

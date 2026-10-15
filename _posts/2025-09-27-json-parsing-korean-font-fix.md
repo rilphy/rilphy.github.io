@@ -4,6 +4,8 @@ title: "Day 117: Parsing a JSON File and Fixing Broken Korean Text"
 date: 2025-09-27 00:52:43 +0900
 categories: [Game Development, Visual Novel]
 tags: [Unity, JSON, TextMeshPro, Korean font]
+toc: true
+toc_sticky: true
 description: "Displayed dialogue by parsing a JSON file, and fixed broken Korean text in TMP by changing the font atlas size."
 ---
 
